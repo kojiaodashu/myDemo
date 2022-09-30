@@ -2,3 +2,8 @@
 初始化
 
 git init
+
+git config 
+
+
+git log

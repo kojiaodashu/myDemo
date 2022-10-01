@@ -2,3 +2,17 @@
 初始化
 
 git init
+
+git config 
+
+
+git log
+
+444444444444444
+
+git diff
+
+git aad
+
+git commet 
+
